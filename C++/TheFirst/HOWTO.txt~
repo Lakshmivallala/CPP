@@ -1,0 +1,18 @@
+To execute a C++ program using the terminal:
+
+cd filelocation
+ls
+g++ filename.cpp
+./a.out
+
+ex: (Clone the repo to try this:)
+cd /Desktop/C++/TheFirst/CODE FILES
+ls
+g++ datatypes.cpp
+./a.out
+
+OUTPUT:
+THIS STRING IS A CONSTANT
+3.4
+
+

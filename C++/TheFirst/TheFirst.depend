@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604507408 source:/home/lakshmi11/Desktop/C++/TheFirst/main.cpp
+	<iostream>
+	<cmath>
+
